@@ -2,7 +2,7 @@
 
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-md bg-body-tertiary  ">
+    <nav className="navbar navbar-expand-md bg-body-tertiary border border-bottom ">
       <div className="container-fluid justify-content-between">
         <a className="navbar-brand d-flex" href="#">
           <img src="../../public/Group 32.png" />
